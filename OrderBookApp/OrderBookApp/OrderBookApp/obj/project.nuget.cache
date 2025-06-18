@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AZ8b+ePfAU4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mic_a\\C#-Workspace\\OrderBookApp_bak\\OrderBookApp\\OrderBookApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mic_a\\.nuget\\packages\\log4net\\3.1.0\\log4net.3.1.0.nupkg.sha512",
+    "C:\\Users\\mic_a\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.6\\system.configuration.configurationmanager.9.0.6.nupkg.sha512",
+    "C:\\Users\\mic_a\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.6\\system.diagnostics.eventlog.9.0.6.nupkg.sha512",
+    "C:\\Users\\mic_a\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
