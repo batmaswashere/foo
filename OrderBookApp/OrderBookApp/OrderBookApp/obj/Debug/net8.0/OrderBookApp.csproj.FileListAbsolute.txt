@@ -1,0 +1,14 @@
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\bin\Debug\net8.0\OrderBookApp.exe
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\bin\Debug\net8.0\OrderBookApp.deps.json
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\bin\Debug\net8.0\OrderBookApp.runtimeconfig.json
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\bin\Debug\net8.0\OrderBookApp.dll
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\bin\Debug\net8.0\OrderBookApp.pdb
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\obj\Debug\net8.0\OrderBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\obj\Debug\net8.0\OrderBookApp.AssemblyInfoInputs.cache
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\obj\Debug\net8.0\OrderBookApp.AssemblyInfo.cs
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\obj\Debug\net8.0\OrderBookApp.csproj.CoreCompileInputs.cache
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\obj\Debug\net8.0\OrderBookApp.dll
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\obj\Debug\net8.0\refint\OrderBookApp.dll
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\obj\Debug\net8.0\OrderBookApp.pdb
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\obj\Debug\net8.0\OrderBookApp.genruntimeconfig.cache
+C:\Users\mic_a\C#-Workspace\OrderBookApp\OrderBookApp\obj\Debug\net8.0\ref\OrderBookApp.dll
